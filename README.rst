@@ -35,7 +35,7 @@ Features
 
 Install
 --------
-* currently not available via pip, follow instructions below:
+**Currently not available via "pip install" without local files, follow instructions below:**
 1. download raw file and unzip in folder of choice 
 2. within the directory, use pip install "cardiac_proteome" to install the package
 
