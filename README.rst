@@ -45,6 +45,9 @@ Instructions
 --------
 1. Make a .csv file in each parent_dir of .tsv files. This will be defined as your output. 
 
+TODO
+-------
+- add config file to call arguments with argparse in the src module for csv_to_tsv
 Credits
 -------
 
