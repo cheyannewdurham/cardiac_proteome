@@ -40,6 +40,10 @@ Install
 1. download raw file and unzip in folder of choice 
 2. within the directory, use pip install "cardiac_proteome" to install the package
 
+Instructions
+--------
+1. Make a .csv file in each parent_dir of .tsv files. This will be defined as your output. 
+
 Credits
 -------
 
