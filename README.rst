@@ -2,6 +2,7 @@
 Cardiac Proteome
 ================
 
+Currently in development!!
 
 .. image:: https://img.shields.io/pypi/v/cardiac_proteome.svg
         :target: https://pypi.python.org/pypi/cardiac_proteome
@@ -30,7 +31,13 @@ repository of publically available cardiac proteomic data
 Features
 --------
 
-* TODO
+* combine .tsv files into a .csv file 
+
+Install
+--------
+* currently not available via pip, follow instructions below:
+1. download raw file and unzip in folder of choice 
+2. within the directory, use pip install "cardiac_proteome" to install the package
 
 Credits
 -------
