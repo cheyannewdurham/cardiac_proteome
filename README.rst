@@ -2,8 +2,6 @@
 Cardiac Proteome
 ================
 
-Currently in development!!
-
 .. image:: https://img.shields.io/pypi/v/cardiac_proteome.svg
         :target: https://pypi.python.org/pypi/cardiac_proteome
 
@@ -22,6 +20,7 @@ Currently in development!!
 
 
 
+Currently in development!!
 Repository of publically available cardiac proteomic data
 
 
