@@ -21,7 +21,8 @@ Currently in development!!
 
 
 
-repository of publically available cardiac proteomic data
+
+Repository of publically available cardiac proteomic data
 
 
 * Free software: MIT license
